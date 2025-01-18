@@ -2,7 +2,7 @@ class arithmatic
 {
 add 
 {
-
+c=a+b;
 }
 
 }

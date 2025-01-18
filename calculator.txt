@@ -1,8 +1,8 @@
 class arithmatic
 {
-add 
+multiply 
 {
-
+c=a*b
 }
 
 }

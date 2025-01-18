@@ -1,8 +1,8 @@
 class arithmatic
 {
-add 
+divide 
 {
-
+c=a/b
 }
 
 }
